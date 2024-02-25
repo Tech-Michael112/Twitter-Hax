@@ -1,0 +1,34 @@
+
+
+pragma: no-cache
+
+server: tsa_o
+
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+
+last-modified: Sun, 25 Feb 2024 19:44:06 GMT
+
+x-transaction: 4a3e9470cc42cf6f
+
+content-length: 0
+
+x-frame-options: SAMEORIGIN
+
+x-transaction-id: 4a3e9470cc42cf6f
+
+x-xss-protection: 0
+
+x-content-type-options: nosniff
+
+x-twitter-response-tags: BouncerCompliant
+
+strict-transport-security: max-age=631138519
+
+x-response-time: 125
+
+x-connection-hash: c6a29681280154865937084918a3262e5848c8cee80a6db8c631e83eae6d63e8
+
+
+
